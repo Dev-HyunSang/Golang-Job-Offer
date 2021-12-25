@@ -23,3 +23,7 @@ Record job offers for Go language-speaking developers.
 |Google, Inc.| Systems Administrator, Mobile Testing Infrastructure Management | Sunnyvale, CA, USA 🇺🇸 | [Link](https://careers.google.com/jobs/results/86555199058911942/)|
 |Google, Inc.| Security Engineer, Certificate Authority|New York, NY, USA 🇺🇸 | [Link](https://careers.google.com/jobs/results/138583168685875910/)|
 |Google, Inc.| Staff Software Engineer, Infrastructure, Chrome OS | Boulder, CO, USA / Austin, TX, USA / Kirkland, WA, USA 🇺🇸| [Link](https://careers.google.com/jobs/results/87507325058720454/)
+| 작당모의(잼페이스) | Back-end 개발자 (Go, Nodejs) 3년 이상 | Seoul, South Korea 🇰🇷| [Link](https://www.wanted.co.kr/wd/38552) |
+| 코빗(Korbit) | 신사업 시스템 개발자 (Golang) | Seoul, South Korea 🇰🇷 | [Link](https://www.wanted.co.kr/wd/81610) |
+| Uber | Sr Backend Engineer - Marketplace Delivery | Remote, United States / Sunnyvale, California / San Francisco, California 🇺🇸 | [Link](https://www.uber.com/global/ko/careers/list/105446/)|
+| Uber | Sr. Software Developer II(Backend, Engineering) | Bangalore, India / Hyderabad, India 🇮🇳| [Link](https://www.uber.com/global/ko/careers/list/110030/)
