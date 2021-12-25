@@ -27,3 +27,7 @@ Record job offers for Go language-speaking developers.
 | 코빗(Korbit) | 신사업 시스템 개발자 (Golang) | Seoul, South Korea 🇰🇷 | [Link](https://www.wanted.co.kr/wd/81610) |
 | Uber | Sr Backend Engineer - Marketplace Delivery | Remote, United States / Sunnyvale, California / San Francisco, California 🇺🇸 | [Link](https://www.uber.com/global/ko/careers/list/105446/)|
 | Uber | Sr. Software Developer II(Backend, Engineering) | Bangalore, India / Hyderabad, India 🇮🇳| [Link](https://www.uber.com/global/ko/careers/list/110030/)
+| LINE, Corp. | Backend Server Engineer | Bundang, Seongnam South Korea 🇰🇷 | [Link](https://careers.linecorp.com/ko/jobs/366)|
+| LINE, Corp. | Data Science & Platform - Golang Server Engineer | Bundang, Seongnam South Korea 🇰🇷 | [Link](https://careers.linecorp.com/ko/jobs/956)|
+| LINE, Corp. | ADS Platform Data Engineer | Bundang, Seongnam South Korea 🇰🇷 | [Link](https://careers.linecorp.com/ko/jobs/407) |
+| LINE, Corp. | Cloud Service Backend Server Engineer | Bundang, Seongnam South Korea 🇰🇷 | [Link](https://careers.linecorp.com/ko/jobs/879)|
