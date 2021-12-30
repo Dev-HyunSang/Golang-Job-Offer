@@ -33,4 +33,4 @@ Record job offers for Go language-speaking developers.
 | LINE, Corp. | Cloud Service Backend Server Engineer | Bundang, Seongnam South Korea 🇰🇷 | [Link](https://careers.linecorp.com/ko/jobs/879)|
 | 인터파크(주) | 소프트웨어엔지니어, 시스템엔지니어 | Seoul, South Korea 🇰🇷 | [Link](https://www.jobplanet.co.kr/companies/57834/job_postings/1211604/golang-%EA%B0%9C%EB%B0%9C/%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
 | 올림플래닛 | 백엔드 개발 | Seoul, South Korea 🇰🇷 | [Link](https://school.programmers.co.kr/job_positions/4956) |
-
+| 아틀라스네트웍스 | BackEnd Developer | Seoul, South Korea 🇰🇷 | [Link](https://www.wanted.co.kr/wd/72912) |
