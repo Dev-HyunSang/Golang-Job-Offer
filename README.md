@@ -34,3 +34,9 @@ Record job offers for Go language-speaking developers.
 | 인터파크(주) | 소프트웨어엔지니어, 시스템엔지니어 | Seoul, South Korea 🇰🇷 | [Link](https://www.jobplanet.co.kr/companies/57834/job_postings/1211604/golang-%EA%B0%9C%EB%B0%9C/%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
 | 올림플래닛 | 백엔드 개발 | Seoul, South Korea 🇰🇷 | [Link](https://school.programmers.co.kr/job_positions/4956) |
 | 아틀라스네트웍스 | BackEnd Developer | Seoul, South Korea 🇰🇷 | [Link](https://www.wanted.co.kr/wd/72912) |
+| NAVER Cloud | Media 서비스 개발 | Seoul, South Korea 🇰🇷 | [Link](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006569) | 
+| NAVER Cloud | 클라우드 네트워크 솔루션 및 SDN 기술 개발 | Seoul, South Korea 🇰🇷 | [Link](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005396) |
+| NAVER Cloud | Kubernetes 서비스 개발 | Seoul, South Korea 🇰🇷 | [Link](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005396) | 
+| NAVER Cloud | Blockchain 서비스 개발 | Seoul, South Korea 🇰🇷 | [Link](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005405) |
+| NAVER Cloud | Video Conference 서비스 개발 | Seoul, South Korea 🇰🇷 | [Link](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005416) |
+
