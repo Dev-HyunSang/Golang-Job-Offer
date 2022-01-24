@@ -51,3 +51,8 @@ Record job offers for Go language-speaking developers.
 |Company|Job Title|Region|Link|
 |:----:|:----------------------------:|:--------------:|:--------------:|
 |LINE, Corp|Data Science & Platform - Golang Server Engineer | Bundang, Seongnam South Korea 🇰🇷 | [Link](https://careers.linecorp.com/ko/jobs/956) |
+| Navaer Cloud Platform | Media 서비스 개발 | Seongnam, South Korea 🇰🇷  | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20006569&classId=&jobId=&entTypeCd=&searchTxt=) |
+| Naver Cloud Platform | Kubernetes 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005404) | 
+| Naver Cloud Platform | Blockchain 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005405) |
+| Naver Cloud Platform | PaaS-TA 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005403) | 
+| Naver Cloud Platform | Video Conference 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005416) |
