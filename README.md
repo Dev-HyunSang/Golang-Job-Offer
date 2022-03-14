@@ -56,3 +56,4 @@ Record job offers for Go language-speaking developers.
 | Naver Cloud Platform | Blockchain 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005405) |
 | Naver Cloud Platform | PaaS-TA 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005403) | 
 | Naver Cloud Platform | Video Conference 서비스 개발 | Seongnam, South Korea 🇰🇷 | [Link](https://recruit.navercloudcorp.com/navercloud/job/detail/developer?annoId=20005416) |
+| wavve | wavve 인프라개발자 (Node.js or Golang) / 경력 | Seoul, South Korea 🇰🇷 |[Link](https://www.teamblind.com/kr/jobs/개발-UvATJXrv?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
