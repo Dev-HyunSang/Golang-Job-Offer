@@ -51,3 +51,10 @@ Go언어를 사용하는 개발자들을 위해서 Go언어에 대한 잡오퍼�
 | Google | Software Engineer, Site Reliability Engineering | Los Angeles, CA, USA 🇺🇸 | [LINK](https://careers.google.com/jobs/results/106478200621540038-software-engineer-site-reliability-engineering/?gclid=Cj0KCQjwmPSSBhCNARIsAH3cYga1B6Z36lRSEukA7vqLtKGViVS-090MOU91fgTAfJ9pufHuB4yrsS0aAmKrEALw_wcB&gclsrc=aw.ds&q=Software%20Engineering&src=Online%2FHouse%20Ads%2FBKWS_LATAM) |
 | 스티비 | 백엔드 엔지니어(신입) | Seoul, South Korea 🇰🇷 | [LINK](https://recruit.stibee.com/5cb0f5a4-71c1-4893-a376-d8aa308d433c) |
 | 스티비 | 백엔드 엔지니어(경력) | Seoul, South Korea 🇰🇷 | [LINK](https://recruit.stibee.com/e522a153-b6c2-4d7c-aee5-77467682cafc) |
+
+## 2023
+|Company|Job Title|Region|Link|
+|:----:|:----------------------------:|:--------------:|:--------------:|
+| 42dot | Backend Engineer (Autonomous Transportation matriX) | Seoul, South Korea | [LINK](https://42dot.ai/career/f0ef7d39-61bc-4913-b72c-02a9f1ecf94f) |
+| 42dot | Platform Backend Engineer | Seoul, South Korea | [LINK](https://42dot.ai/career/60f6625e-ee5f-4e5c-a719-8366b6adde06) |
+| 42dot | Backend Engineer(Data Sync Platform) | Seoul, South Korea | [LINK](https://42dot.ai/career/a6dfa33e-afa4-463e-b2c7-4f1899f62546) |
