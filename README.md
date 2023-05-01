@@ -1,16 +1,5 @@
 # Golang Job Offer
 Go언어를 사용하는 개발자들을 위해서 Go언어에 대한 잡오퍼를 기록합니다.  
-Record job offers for Go language-speaking developers.
-
-## ⚠️ Notice
-- **ENG**: 
-  - There may be an expired Job-Offer.  
-  **Please check it out yourself.**
-  - You may have a lot of Google Job Offer because you usually use Go language on Google.
-- **KOR:**
-  -  Job-Offer가 만료되었을 수 있습니다.  
-  **본인이 확인하시기 바랍니다.**
-  - 주로 Google에서 Go언어를 사용하고 있으므로 Google Job offer가 많을 수도 있습니다
 
 ## 2021
 |Company|Job Title|Region|Link|
